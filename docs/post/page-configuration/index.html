@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en-uk">
+    <head>
+        
+        <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+<title>
+Page Configuration Options in the Theme - Story:Web
+</title>
+
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+        
+        <meta property="og:title" content="Page configuration options in the theme - Story:Web" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Get to know all the page-level configuration relevant to Vibrant Shadows Hugo theme."/>
+<meta property="og:url" content="http://storyweb.info/post/page-configuration/"/>
+<meta property="og:site_name" content="Story:Web"/>
+
+
+
+
+<meta property="og:image" content="http://storyweb.info/home/greySealSkull.jpg"/>
+
+
+
+
+        
+
+        
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.min.c0eba6e0829f268628b1aa885a3610a6f3b7b99e1cbe211ba9c8b2a237403547.css" integrity="sha256-wOum4IKfJoYosaqIWjYQpvO3uZ4cviEbqciyojdANUc=" crossorigin="anonymous" media="screen">
+
+
+
+
+
+        
+        
+        
+        
+    </head>
+    <body>
+        <section id="top" class="section">
+            
+            <div class="container hero  fade-in one ">
+                
+                <h1 class="bold-title is-1">Page configuration options in the theme</h1>
+                
+            </div>
+            
+            <div class="section  fade-in two ">
+                
+<div class="container">
+    <hr>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        
+        <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false" >
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+        <div class="navbar-menu " id="navMenu">
+            
+            
+            
+            
+            <a class="navbar-item" href="/">main</a>
+            
+
+            
+            
+
+            
+
+            
+
+            
+            
+            
+            
+            
+            <a class="navbar-item" href="/#introduction">Share Media for Story:Web</a>
+            
+            
+            
+            
+            
+            <a class="navbar-item" href="/#storyweb">The Story:Web So Far</a>
+            
+            
+            
+            
+            
+            <a class="navbar-item" href="/#about">About Story:Web</a>
+            
+            
+            
+            
+
+            
+            
+            <a class="navbar-item" href="/#contact">Contact</a>
+            
+            
+
+            
+
+            
+            
+        </div>
+    </nav>
+    <hr>
+</div>
+
+
+
+                
+    <div class="container markdown top-pad">
+        <p>&lsquo;Page paremeters&rsquo; relate to the particular content file in whose front-matter they are defined.</p>
+<h2 id="page-parameters" class="anchor-link"><a href="#page-parameters">Page Parameters</a></h2>
+<p>These options can be set from a page <a href="https://gohugo.io/content-management/front-matter#readout" target="_blank">front-matter</a>
+ or via <a href="https://gohugo.io/content-management/archetypes/#readout" target="_blank">archetypes</a>
+ (i.e. when you create a new content file via <code>hugo new</code> command).</p>
+<ol>
+<li>
+<p><strong>Title</strong> <em>(Type: String | Accepts value: Text | Required)</em></p>
+<p>It is the title of the current page/post you are writing.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">title</span>: <span style="color:#e6db74">&#34;A post that takes you into space&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Description</strong> <em>(Type: String | Accepts value: Text | Required)</em></p>
+<p>It is the description of the current page/post. Recommended character length: 50 to 160</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">description</span>: <span style="color:#e6db74">&#34;A short yet descriptive text that relates to this post.&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Date</strong> <em>(Type: String | Accepts value: Date | Required)</em></p>
+<p>It is the date on which current page/post is published.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">date</span>: <span style="color:#e6db74">&#34;2021-04-26&#34;</span> <span style="color:#75715e"># YYYY-MM-DD</span>
+</code></pre></div></li>
+<li>
+<p><strong>Last Modified</strong> <em>(Type: String | Accepts value: Date | Required)</em></p>
+<p>It is the date on which current post was last modified.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">lastmod</span>: <span style="color:#e6db74">&#34;2021-04-29&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Tags/Categories/Custom-Taxonomy</strong> <em>(Type: Array/String | Accepts value: Text | Recommended)</em></p>
+<p>You can manage and organise you posts based on tags, categories or any other custom taxonomy.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">tags</span>: [<span style="color:#e6db74">&#34;great post&#34;</span>, <span style="color:#e6db74">&#34;awesome&#34;</span>] <span style="color:#75715e"># multiple elements</span>
+<span style="color:#f92672">categories</span>: <span style="color:#e6db74">&#34;category&#34;</span> <span style="color:#75715e"># single element</span>
+</code></pre></div></li>
+<li>
+<p><strong>Image</strong> <em>(Type: String | Accepts value: Path to Image | Recommended)</em></p>
+<p>You can specify path to an image dedicated to current post. This image is used to optimize the display of content when shared on social media.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">image</span>: <span style="color:#e6db74">&#34;/images/post-1.png&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Author</strong> <em>(Type: String | Accepts value: Text | Recommended)</em></p>
+<p>It is the name of the author of the current post.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">author</span>: <span style="color:#e6db74">&#34;Great Author&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Author Twitter Handle</strong> <em>(Type: String | Accepts value: Text | Recommended)</em></p>
+<p>It is the Twitter handle of the author of the current post, without &lsquo;@&rsquo;. This option is theme specific.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">author_twitter</span>: <span style="color:#e6db74">&#34;Gr8Authr&#34;</span> <span style="color:#75715e"># this is just an example</span>
+</code></pre></div></li>
+<li>
+<p><strong>Draft</strong> <em>(Type: Boolean | Accepts value: true/false | Optional)</em></p>
+<p>If it is set to <code>true</code>, the content will not be rendered unless the <code>--buildDrafts</code> flag is passed to the <code>hugo</code> command.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">draft</span>: <span style="color:#66d9ef">true</span>
+</code></pre></div></li>
+<li>
+<p><strong>Table of Contents</strong> <em>(Type: boolean/String | Accepts value: true/false | Optional)</em></p>
+<p>If set to <code>false</code>, <em>Table of Content</em> for current post will not be rendered.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">toc</span>: <span style="color:#66d9ef">false</span>
+</code></pre></div></li>
+<li>
+<p><strong>Aliases</strong> <em>(Type: Array | Accepts value: Relative URL | Optional)</em></p>
+<p>It stores other URLs (in relative form) - usually older URLs for current post - which you would like to redirect to current post.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">aliases</span>: [<span style="color:#e6db74">&#34;/posts/my-original-url/&#34;</span>, <span style="color:#e6db74">&#34;/2010/01/01/even-earlier-url.html&#34;</span>]
+</code></pre></div></li>
+<li>
+<p><strong>URL</strong> <em>(Type: String | Accepts value: Relative URL | Optional)</em></p>
+<p>If you want to specify a custom URL for this post other than the one automatically generated by hugo based on content directory structure, you can specify it in this parameter.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">url</span>: <span style="color:#e6db74">&#34;/custom/url/&#34;</span>
+</code></pre></div></li>
+</ol>
+    </div>
+    
+    
+
+
+
+                
+                <div class="container">
+    <hr>
+</div>
+<div class="container has-text-centered top-pad">
+    <a href="#top">
+        <i class="fa fa-arrow-up"></i>
+    </a>
+</div>
+
+<div class="container">
+    <hr>
+</div>
+
+                <div class="section" id="footer">
+    <div class="container has-text-centered">
+    
+        <span class="footer-text">
+            <a href="https://github.com/victoriadrake/hugo-theme-introduction/"><strong>Introduction</strong></a> theme for <a href="http://gohugo.io/">Hugo</a>. Made with <a href="https://victoria.dev"><i class="fa fa-heart"></i> and <i class="fa fa-coffee"></i></a> by open source contributors.
+        </span>
+    
+    </div>
+</div>
+
+                
+            </div>
+        </section>
+        
+        
+
+
+<script src="http://storyweb.info/js/bundle.2ee571453a8980175e10bda96bda797cc9c4e2e745e488df68d50cef5deb57ff.js" integrity="sha256-LuVxRTqJgBdeEL2pa9p5fMnE4udF5IjfaNUM713rV/8="></script>
+
+
+
+
+
+
+        
+        
+        
+        
+    </body>
+</html>

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en-uk">
+    <head>
+        
+        <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+<title>
+Getting Started With Vibrant Shadows - Story:Web
+</title>
+
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+        
+        <meta property="og:title" content="Getting started with Vibrant Shadows - Story:Web" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Read the full post to easily get started with Vibrant Shadows Hugo theme."/>
+<meta property="og:url" content="http://storyweb.info/post/getting-started/"/>
+<meta property="og:site_name" content="Story:Web"/>
+
+
+
+
+<meta property="og:image" content="http://storyweb.info/home/greySealSkull.jpg"/>
+
+
+
+
+        
+
+        
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.min.c0eba6e0829f268628b1aa885a3610a6f3b7b99e1cbe211ba9c8b2a237403547.css" integrity="sha256-wOum4IKfJoYosaqIWjYQpvO3uZ4cviEbqciyojdANUc=" crossorigin="anonymous" media="screen">
+
+
+
+
+
+        
+        
+        
+        
+    </head>
+    <body>
+        <section id="top" class="section">
+            
+            <div class="container hero  fade-in one ">
+                
+                <h1 class="bold-title is-1">Getting started with Vibrant Shadows</h1>
+                
+            </div>
+            
+            <div class="section  fade-in two ">
+                
+<div class="container">
+    <hr>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        
+        <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false" >
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+        <div class="navbar-menu " id="navMenu">
+            
+            
+            
+            
+            <a class="navbar-item" href="/">main</a>
+            
+
+            
+            
+
+            
+
+            
+
+            
+            
+            
+            
+            
+            <a class="navbar-item" href="/#introduction">Share Media for Story:Web</a>
+            
+            
+            
+            
+            
+            <a class="navbar-item" href="/#storyweb">The Story:Web So Far</a>
+            
+            
+            
+            
+            
+            <a class="navbar-item" href="/#about">About Story:Web</a>
+            
+            
+            
+            
+
+            
+            
+            <a class="navbar-item" href="/#contact">Contact</a>
+            
+            
+
+            
+
+            
+            
+        </div>
+    </nav>
+    <hr>
+</div>
+
+
+
+                
+    <div class="container markdown top-pad">
+        <p>It&rsquo;s very easy to get started with Vibrant Shadows. How? Read on.</p>
+<h2 id="prerequisites" class="anchor-link"><a href="#prerequisites">Prerequisites</a></h2>
+<p>Firstly, <em>ensure you have installed the latest (min v0.75.1) <a href="https://github.com/gohugoio/hugo/releases" target="_blank">extended version of Hugo</a>
+</em>. You may need to scroll down a bit to see extended versions. Alternatively, you may see installation steps from <a href="https://gohugo.io/getting-started/installing/" target="_blank">Hugo&amp;rsquo;s official docs</a>
+.</p>
+<p>If you don&rsquo;t have or can&rsquo;t have extended version of Hugo installed, copy the resources folder from theme to root of your Hugo website directory. Hugo autodetects required files, and uses them. Note that it might make your website slightly slow to load.</p>
+
+<h2 id="getting-up-and-running" class="anchor-link"><a href="#getting-up-and-running">Getting up and running</a></h2>
+<p>Read the <a href="#prerequisites">prerequisites</a>
+ above and verify you&rsquo;re using the extended version of Hugo. There are at least two ways of quickly getting started with Hugo and the Vibrant Shadows theme:</p>
+
+<h3 id="setting-up-new-hugo-website" class="anchor-link"><a href="#setting-up-new-hugo-website">Setting up new Hugo website</a></h3>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo new site yourSiteName <span style="color:#75715e"># generate a new Hugo site if you don&#39;t already have one</span>
+cd yourSiteName <span style="color:#75715e"># move in to the Hugo website&#39;s directory</span>
+</code></pre></div>
+<h4 id="1-as-a-hugo-theme-recommended" class="anchor-link"><a href="#1-as-a-hugo-theme-recommended">1. As a Hugo theme (recommended)</a></h4>
+<ol>
+<li>
+<p>Download the repo on your machine</p>
+</li>
+<li>
+<p>Extract the zip file and rename the folder from <code>HugoTheme-VibrantShadows-master</code> to <code>HugoTheme-VibrantShadows</code>.</p>
+</li>
+<li>
+<p>Copy this folder and paste it into you Hugo Website directory.</p>
+</li>
+<li>
+<p>Simply add the repo to your theme option in <code>config.yaml</code>:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">theme</span>: <span style="color:#e6db74">&#34;HugoTheme-VibrantShadows&#34;</span>
+</code></pre></div></li>
+</ol>
+
+<h4 id="2-as-git-submodule" class="anchor-link"><a href="#2-as-git-submodule">2. As Git Submodule</a></h4>
+<p>Inside the folder of your Hugo site run:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git init <span style="color:#75715e"># to initiate git if it isn&#39;t already</span>
+git submodule add https://github.com/Softorage/HugoTheme-VibrantShadows.git themes/HugoTheme-VibrantShadows <span style="color:#75715e"># add theme as a git submodule</span>
+cp -a themes/HugoTheme-VibrantShadows/exampleSite/* . <span style="color:#75715e"># start with the boilerplate by copying it into current directory</span>
+</code></pre></div><p>Then run</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo server
+</code></pre></div><p>And, we&rsquo;re done!</p>
+<p>If you have extended version of Hugo installed, copy the <code>postcss.config.js</code> file to the root of your Hugo Website directory after setting up the theme. We also recommend creating a <code>package.json</code> file in your Hugo Website directory.</p>
+
+<h3 id="using-boilerplate-provided" class="anchor-link"><a href="#using-boilerplate-provided">Using boilerplate provided</a></h3>
+<ol>
+<li>Copy exampleSite folder provided, and move into this folder (open this folder).</li>
+<li>Then run <code>hugo server</code> in terminal.</li>
+</ol>
+<p>And, we&rsquo;re done!</p>
+<p>Once set, jump over to the <code>config.yaml</code> file and start <a href="/post/configuration">configuring</a>
+ your site.</p>
+    </div>
+    
+    
+
+
+
+                
+                <div class="container">
+    <hr>
+</div>
+<div class="container has-text-centered top-pad">
+    <a href="#top">
+        <i class="fa fa-arrow-up"></i>
+    </a>
+</div>
+
+<div class="container">
+    <hr>
+</div>
+
+                <div class="section" id="footer">
+    <div class="container has-text-centered">
+    
+        <span class="footer-text">
+            <a href="https://github.com/victoriadrake/hugo-theme-introduction/"><strong>Introduction</strong></a> theme for <a href="http://gohugo.io/">Hugo</a>. Made with <a href="https://victoria.dev"><i class="fa fa-heart"></i> and <i class="fa fa-coffee"></i></a> by open source contributors.
+        </span>
+    
+    </div>
+</div>
+
+                
+            </div>
+        </section>
+        
+        
+
+
+<script src="http://storyweb.info/js/bundle.2ee571453a8980175e10bda96bda797cc9c4e2e745e488df68d50cef5deb57ff.js" integrity="sha256-LuVxRTqJgBdeEL2pa9p5fMnE4udF5IjfaNUM713rV/8="></script>
+
+
+
+
+
+
+        
+        
+        
+        
+    </body>
+</html>

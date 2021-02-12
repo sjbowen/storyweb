@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en-uk">
+    <head>
+        
+        <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+<title>
+Hugo&#39;s Built in Global Configurations - Story:Web
+</title>
+
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+        
+        <meta property="og:title" content="Hugo&rsquo;s built-in global configurations - Story:Web" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Get to know the Hugo&#39;s built-in configurations relevant to Vibrant Shadows Hugo theme."/>
+<meta property="og:url" content="http://storyweb.info/post/hugos-built-in-global-configuration/"/>
+<meta property="og:site_name" content="Story:Web"/>
+
+
+
+
+<meta property="og:image" content="http://storyweb.info/home/greySealSkull.jpg"/>
+
+
+
+
+        
+
+        
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.min.c0eba6e0829f268628b1aa885a3610a6f3b7b99e1cbe211ba9c8b2a237403547.css" integrity="sha256-wOum4IKfJoYosaqIWjYQpvO3uZ4cviEbqciyojdANUc=" crossorigin="anonymous" media="screen">
+
+
+
+
+
+        
+        
+        
+        
+    </head>
+    <body>
+        <section id="top" class="section">
+            
+            <div class="container hero  fade-in one ">
+                
+                <h1 class="bold-title is-1">Hugo&rsquo;s built-in global configurations</h1>
+                
+            </div>
+            
+            <div class="section  fade-in two ">
+                
+<div class="container">
+    <hr>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        
+        <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false" >
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+        <div class="navbar-menu " id="navMenu">
+            
+            
+            
+            
+            <a class="navbar-item" href="/">main</a>
+            
+
+            
+            
+
+            
+
+            
+
+            
+            
+            
+            
+            
+            <a class="navbar-item" href="/#introduction">Share Media for Story:Web</a>
+            
+            
+            
+            
+            
+            <a class="navbar-item" href="/#storyweb">The Story:Web So Far</a>
+            
+            
+            
+            
+            
+            <a class="navbar-item" href="/#about">About Story:Web</a>
+            
+            
+            
+            
+
+            
+            
+            <a class="navbar-item" href="/#contact">Contact</a>
+            
+            
+
+            
+
+            
+            
+        </div>
+    </nav>
+    <hr>
+</div>
+
+
+
+                
+    <div class="container markdown top-pad">
+        <p>Options that Hugo has built-in and are relevant to this theme. If something is not covered here (or elsewhere in this file), there&rsquo;s a good chance it is covered in <a href="https://gohugo.io/getting-started/configuration/#configuration-file" target="_blank">this Hugo docs page</a>
+.</p>
+<p><strong>Global Parameters (site-level):</strong></p>
+<p>These options set global values that some pages or all pages in the site use by default.</p>
+
+<h2 id="hugos-built-in-global-parameters" class="anchor-link"><a href="#hugos-built-in-global-parameters">Hugo&rsquo;s built-in global parameters</a></h2>
+<ol>
+<li>
+<p><strong>BaseURL</strong> <em>(Type: String | Accepts value: URL | Required | No default)</em></p>
+<p>baseURL is the URL of the website or blog.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">baseurl</span>: <span style="color:#e6db74">&#34;https://example.com/&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Title</strong> <em>(Type: String | Accepts value: Text | Required | No default)</em></p>
+<p>It is the title of the website or blog. Title is usually same as brand name.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">title</span>: <span style="color:#e6db74">&#34;ExampleBlog&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Author</strong> <em>(Type: String | Accepts value: Text | Required | No default)</em></p>
+<p>We won&rsquo;t be using <code>site.Authors</code> till this parameter is finalised. See <a href="https://github.com/gohugoio/hugo/issues/3088" target="_blank">here</a>
+.</p>
+<!--It stores website-wide author(s).
+    
+Example:
+```yaml
+author: "The Great Authors"
+```
+#name: https://gohugo.io/templates/rss/#configure-rss
+#email: "" # author's email; used in default rss template: https://gohugo.io/templates/rss/#configure-rss | optional-->
+</li>
+<li>
+<p><strong>Copyright</strong> <em>(Type: String | Accepts value: Text | Optional | No default)</em></p>
+<p>It is the copyright text. Due consideration should be given to &lsquo;brandName or title&rsquo; and &lsquo;contentLicense&rsquo; specified in configuration file. Note that it isn&rsquo;t used in footer, but only <a href="https://gohugo.io/templates/rss/#configure-rss" target="_blank">in defualt RSS template</a>
+.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">copyright</span>: <span style="color:#e6db74">&#34;Copyright &amp;#169; 2020 ExampleBlog. All rights reserved.&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Language Code</strong> <em>(Type: String | Accepts value: Text | Recommended | No default)</em></p>
+<p>It stores the language code for the website or blog.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">languageCode</span>: <span style="color:#e6db74">&#34;en-us&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Theme</strong> <em>(Type: String | Accepts value: Text | Required | No default)</em></p>
+<p>This is the name of the theme you are using.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">theme</span>: <span style="color:#e6db74">&#34;HugoTheme-VibrantShadows&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Google Analytics</strong> <em>(Type: String | Accepts value: Alphanumeric | Optional | No default)</em></p>
+<p>It is your Google Analytics ID, if any. Respecting your preference from &lsquo;privacy&rsquo;, and &lsquo;params -&gt; user_experience&rsquo; configuration, if you set this value, Google Analytics code will be included. Google Analytics included only when serving the website on &lsquo;production&rsquo; environment (i.e. website built with <code>hugo</code> command and not <code>hugo serve</code>)</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">googleAnalytics</span>: <span style="color:#e6db74">&#34;UA-123456789-0&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Disqus Shortname</strong> <em>(Type: String | Accepts value: Alphanumeric | Optional | No default)</em></p>
+<p>It is your Disqus Shortname, if any. Respecting your preference from &lsquo;privacy&rsquo;, if you set this value, Disqus comments code will be included at the end of the blog posts. Disqus comments are shown only when serving the website on &lsquo;production&rsquo; environment (i.e. website built with <code>hugo</code> command and not <code>hugo serve</code>)</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">disqusShortname</span>: <span style="color:#e6db74">&#34;yourdiscussshortname&#34;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Taxonomies</strong> <em>(Type: Map/Dict/Object | Accepts value: - | Optional | Default: Tags &amp; Categories)</em></p>
+<p>This feature allows to define custom taxonomies for post/page management.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">taxonomies</span>:
+  <span style="color:#f92672">tag</span>: <span style="color:#e6db74">&#34;tags&#34;</span> <span style="color:#75715e"># when defining custom taxonomies, we need to redefine even the default taxonomies if we wish to keep them, hence we have redefined &#39;tags&#39;. see here: https://gohugo.io/content-management/taxonomies#example-adding-a-custom-taxonomy-named-series</span>
+  <span style="color:#f92672">category</span>: <span style="color:#e6db74">&#34;categories&#34;</span> <span style="color:#75715e"># redefined &#39;categories&#39;</span>
+  <span style="color:#f92672">series</span>: <span style="color:#e6db74">&#34;series&#34;</span> <span style="color:#75715e"># defined a custom taxonomy, &#39;series&#39;</span>
+</code></pre></div></li>
+<li>
+<p><strong>Menus</strong> <em>(Type: Map/Dict/Object | Accepts value: - | Optional | No default)</em></p>
+<p>These are the menus that are used by users to navigate the website/blog. An example would be &lsquo;main&rsquo; menu, which usually resides on navbar.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">menu</span>:
+  <span style="color:#f92672">main</span>:
+    - <span style="color:#f92672">identifier</span>: <span style="color:#e6db74">&#34;about&#34;</span> <span style="color:#75715e"># different for all menu entries, useful especially when menu name coincides</span>
+      <span style="color:#f92672">name</span>: <span style="color:#e6db74">&#34;About&#34;</span> <span style="color:#75715e"># shown on website/blog</span>
+      <span style="color:#f92672">url</span>: <span style="color:#e6db74">&#34;/about/&#34;</span> <span style="color:#75715e"># user is taken to this url when user clicks on menu item</span>
+      <span style="color:#f92672">weight</span>: <span style="color:#ae81ff">10</span> <span style="color:#75715e"># used to sort menu items by weight</span>
+    - <span style="color:#f92672">identifier</span>: <span style="color:#e6db74">&#34;sub-about&#34;</span>
+      <span style="color:#f92672">name</span>: <span style="color:#e6db74">&#34;Sub About&#34;</span>
+      <span style="color:#f92672">url</span>: <span style="color:#e6db74">&#34;/sub-about/&#34;</span>
+      <span style="color:#f92672">parent</span>: <span style="color:#e6db74">&#34;about&#34;</span>
+      <span style="color:#f92672">weight</span>: <span style="color:#ae81ff">1</span>
+</code></pre></div></li>
+<li>
+<p><strong>Build Stats</strong> <em>(Type: Map/Dict/Object | Accepts value: - | Required)</em></p>
+<p>With this, Hugo notes some stats about website, which are then used by CSS processors.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">build</span>:
+  <span style="color:#f92672">writeStats</span>: <span style="color:#66d9ef">true</span>
+</code></pre></div></li>
+<li>
+<p><strong>Privacy</strong> <em>(Type: Map/Dict/Object | Accepts value: - | Optional)</em></p>
+<p>This feature allows to maintain optimal privacy settings for the website/blog. You can see full list of privacy settings <a href="https://gohugo.io/about/hugo-and-gdpr/#all-privacy-settings" target="_blank">here</a>
+, and their explanation <a href="https://gohugo.io/about/hugo-and-gdpr/#the-privacy-settings-explained" target="_blank">here</a>
+.</p>
+<p>Example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">privacy</span>:
+  <span style="color:#f92672">disqus</span>:
+    <span style="color:#f92672">disable</span>: <span style="color:#e6db74">&#34;false&#34;</span> <span style="color:#75715e"># | default: false</span>
+  <span style="color:#f92672">googleAnalytics</span>:
+    <span style="color:#f92672">anonymizeIP</span>: <span style="color:#e6db74">&#34;true&#34;</span> <span style="color:#75715e"># &#39;true&#39; makes it so the users&#39; IP addresses are anonymized within Google Analytics | default: false</span>
+    <span style="color:#f92672">disable</span>: <span style="color:#e6db74">&#34;false&#34;</span> <span style="color:#75715e"># | default: false</span>
+    <span style="color:#f92672">respectDoNotTrack</span>: <span style="color:#e6db74">&#34;false&#34;</span> <span style="color:#75715e"># &#39;true&#39; makes the GA templates respect the “Do Not Track” HTTP header | default: false</span>
+    <span style="color:#f92672">useSessionStorage</span>: <span style="color:#e6db74">&#34;false&#34;</span> <span style="color:#75715e"># &#39;true&#39; disables the use of Cookies and use Session Storage to Store the GA Client ID | default: false</span>
+</code></pre></div></li>
+</ol>
+    </div>
+    
+    
+
+
+
+                
+                <div class="container">
+    <hr>
+</div>
+<div class="container has-text-centered top-pad">
+    <a href="#top">
+        <i class="fa fa-arrow-up"></i>
+    </a>
+</div>
+
+<div class="container">
+    <hr>
+</div>
+
+                <div class="section" id="footer">
+    <div class="container has-text-centered">
+    
+        <span class="footer-text">
+            <a href="https://github.com/victoriadrake/hugo-theme-introduction/"><strong>Introduction</strong></a> theme for <a href="http://gohugo.io/">Hugo</a>. Made with <a href="https://victoria.dev"><i class="fa fa-heart"></i> and <i class="fa fa-coffee"></i></a> by open source contributors.
+        </span>
+    
+    </div>
+</div>
+
+                
+            </div>
+        </section>
+        
+        
+
+
+<script src="http://storyweb.info/js/bundle.2ee571453a8980175e10bda96bda797cc9c4e2e745e488df68d50cef5deb57ff.js" integrity="sha256-LuVxRTqJgBdeEL2pa9p5fMnE4udF5IjfaNUM713rV/8="></script>
+
+
+
+
+
+
+        
+        
+        
+        
+    </body>
+</html>

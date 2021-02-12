@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Story:Web</title>
+    <link>http://storyweb.info/tags/</link>
+    <description>Recent content in Tags on Story:Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://storyweb.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>get started</title>
+      <link>http://storyweb.info/tags/get-started/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://storyweb.info/tags/get-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>http://storyweb.info/tags/guide/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://storyweb.info/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration</title>
+      <link>http://storyweb.info/tags/configuration/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://storyweb.info/tags/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>customize</title>
+      <link>http://storyweb.info/tags/customize/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://storyweb.info/tags/customize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>settings</title>
+      <link>http://storyweb.info/tags/settings/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://storyweb.info/tags/settings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>license</title>
+      <link>http://storyweb.info/tags/license/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://storyweb.info/tags/license/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
