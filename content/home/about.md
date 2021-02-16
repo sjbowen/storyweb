@@ -3,6 +3,7 @@ title: "About Story:Web"
 draft: false
 weight: 3
 ---
+<div align="left">
 
 **Story:Web** is an idea that reimagines museums for climate action – taking them from place-based holders of the past to collectively curated, global, big-data resources that can be accessed and experienced, remotely from across the world.
 
@@ -29,3 +30,4 @@ AIs will add a climate change dimension to the **Story:Web** by linking climate 
 
 ### The Story:Web Team
 **Story:Web** is a new project from Simon Bowen at [Open Lab](), Sarah Mander at [Tyndall Centre for Climate Change Research](https://www.tyndall.ac.uk/) and [The Centre for Climate Change and Social Transitions](https://cast.ac.uk/), [the Great North Museum: Hancock](https://greatnorthmuseum.org.uk/), and contemporary musician, field recordist and sound artist [David de la Haye](https://daviddelahaye.co.uk/) - the creative and scientific partnership behind the innovative climate change engagement installations [Here and Now](https://hereandnowchange.net/hereandnow.html) and [Making Marks](https://youtu.be/IIvTDEmxCEQ), the latter hosted as part of The Great North Museum:Hancock’s [Dippy on Tour](https://www.artfund.org/whats-on/exhibitions/2019/10/19/dippy-on-tour-exhibition) programme which centred around Climate Change and biodiversity loss. 
+</div>
