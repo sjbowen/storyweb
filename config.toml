@@ -3,6 +3,7 @@ languageCode = "en-uk"
 title = "Story:Web"
 theme = "introduction"
 publishDir = "docs"
+sectionPagesMenu = "main"
 
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
@@ -29,3 +30,12 @@ publishDir = "docs"
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "home"
+    url = "/"
+    weight = -110
