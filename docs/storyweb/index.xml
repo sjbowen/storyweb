@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Story:Web so far on Story:Web</title>
+    <link>http://storyweb.info/storyweb/</link>
+    <description>Recent content in The Story:Web so far on Story:Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language><atom:link href="http://storyweb.info/storyweb/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
