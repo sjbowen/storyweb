@@ -1,13 +1,11 @@
 ---
-title: "Share Media for Story:Web"
+title: "Help us tell the untold story of climate change"
 draft: false
 weight: 1
 image: greySealSkull.jpg
 ---
-**Story:Web** explores what happens if we consider museum collections and publicly shared creative media as ‘big data,’ where objects, images, and sounds can be linked to tell the larger stories about climate change.
+Climate change is complicated, and can often feel as if it is happening far away. However, it’s part of our everyday lives, and the effects are all around us.  
 
-**Story:Web** was a finalist in the Reimagining Museums for Climate Action design challenge and will be exhibited at the Glasgow Science Centre from June to October 2021 on the lead up to COP26 (the UN Climate Change Conference).
+**Story:Web** will be digital platform that tells stories around climate change using museum objects, sounds, images and words. Begin your journey with a grey seal skull, see and hear how it connects with coastal landslides and St Cuthbert, then share and create your own part of the story. Discover and share images, sounds, and words that bring the stories to life. Where might the journey take us? 
 
-Our starting point was a grey seal skull. Take a look and listen to how the [Story:Web is growing](/#storyweb) then share media (images, sound, text) that connect with it here:
-#### [Share via Story:Web Mural Diagram](https://app.mural.co/t/openlab3486/m/openlab3486/1612530365152/0f61a364dceeaabff2d06258c71d29eb3a2e1774) 
-#### [Share via Story:Web Google Form](https://forms.gle/LSFefgYDQeUg5To96)
+We want to grow **Story:Web** with you, and we need your help to make more connections. 
