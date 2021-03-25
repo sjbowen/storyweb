@@ -2,7 +2,7 @@
 title: "How can I help grow Story:Web?"
 draft: false
 weight: 2
-image: storywebscreengrab.jpg
+image: storyWebSoFar.jpg
 ---
 
 - Follow `#GrowStoryWeb` on [Facebook](https://www.facebook.com/hashtag/GrowStoryWeb), [Twitter](https://twitter.com/search?q=%23GrowStoryWeb) or [Instagram](https://www.instagram.com/tags/GrowStoryWeb/). 
