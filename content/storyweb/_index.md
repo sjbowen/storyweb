@@ -2,17 +2,16 @@
 title: "The Story:Web so far"
 draft: false
 ---
-A simulation of Story:Web - `Click/tap on Story:Snippets` to centre them, `click/tap` again to zoom in for details, images, and sounds.
-[This page](https://xd.adobe.com/view/d4effb8d-6157-49b8-bcb0-1dc07b3a534f-81bc/?fullscreen "XD Prototype") has a version optimised for larger screens.
+Explore simulations of Story:Web - `Click/tap on Story:Snippets` to centre them, `click/tap` again to zoom in for details, images, and sounds:
+* [Story:Web for mobiles and smaller screens](https://xd.adobe.com/view/14845e60-1d8a-4a0f-b7b0-9a6d6412be70-41d7/?fullscreen "XD Prototype Mobile")
+* [Story:Web for larger screens ](https://xd.adobe.com/view/d4effb8d-6157-49b8-bcb0-1dc07b3a534f-81bc/?fullscreen "XD Prototype")
 
-<iframe height="1080" src="https://xd.adobe.com/embed/d4effb8d-6157-49b8-bcb0-1dc07b3a534f-81bc/?fullscreen" frameborder="0" allowfullscreen style="
-    width: 100vw;
-    height: 1080;
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;"></iframe>
+Where should **Story:Web** go next? Share images, sounds and words on Facebook, Twitter or Instagram using the hashtag `#GrowStoryWeb` or [use this form](https://forms.gle/eNgsGrePY4p9gNoo9 "Google Form").
+
+<!-- !["Story:Web mobile screenshot"](/assets/storyWebSoFarMobile.jpg) -->
+!["Story:Web larger screen screenshot"](/assets/storyWebSoFar.jpg)
+
+<!-- <iframe width="1920" height="1080" src="https://xd.adobe.com/embed/d4effb8d-6157-49b8-bcb0-1dc07b3a534f-81bc/?fullscreen" frameborder="0" allowfullscreen></iframe> -->
 
 <!-- <div class="flourish-embed flourish-network" data-src="visualisation/4975961" style="
     width: 100vw;
@@ -21,5 +20,3 @@ A simulation of Story:Web - `Click/tap on Story:Snippets` to centre them, `click
     right: 50%;
     margin-left: -50vw;
     margin-right: -50vw;"></div> -->
-
-Help us grow **Story:Web** by [suggesting images, sounds and words here](https://forms.gle/eNgsGrePY4p9gNoo9 "Google Form"), or share on Facebook, Twitter or Instagram using the hashtag `#GrowStoryWeb`.
