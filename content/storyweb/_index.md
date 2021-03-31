@@ -5,6 +5,7 @@ draft: false
 Explore simulations of Story:Web - `Click/tap on Story:Snippets` to centre them, `click/tap` again to zoom in for details, images, and sounds:
 * [Story:Web for mobiles and smaller screens](https://xd.adobe.com/view/14845e60-1d8a-4a0f-b7b0-9a6d6412be70-41d7/?fullscreen "XD Prototype Mobile")
 * [Story:Web for larger screens ](https://xd.adobe.com/view/d4effb8d-6157-49b8-bcb0-1dc07b3a534f-81bc/?fullscreen "XD Prototype")
+* Or see the list of [Story:Snippets so far](/storyweb/snippets)
 
 Where should **Story:Web** go next? Share images, sounds and words on Facebook, Twitter or Instagram using the hashtag `#GrowStoryWeb` or [use this form](https://forms.gle/eNgsGrePY4p9gNoo9 "Google Form").
 
@@ -20,3 +21,5 @@ Where should **Story:Web** go next? Share images, sounds and words on Facebook, 
     right: 50%;
     margin-left: -50vw;
     margin-right: -50vw;"></div> -->
+
+

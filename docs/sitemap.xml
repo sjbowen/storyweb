@@ -7,11 +7,22 @@
   </url>
   
   <url>
-    <loc>http://storyweb.info/categories/</loc>
+    <loc>http://storyweb.info/storyweb/snippets/</loc>
+    <lastmod>2021-03-31T16:42:05+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://storyweb.info/</loc>
+    <lastmod>2021-03-31T16:42:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://storyweb.info/storyweb/</loc>
+    <lastmod>2021-03-31T16:42:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://storyweb.info/categories/</loc>
   </url>
   
   <url>
@@ -20,10 +31,6 @@
   
   <url>
     <loc>http://storyweb.info/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://storyweb.info/storyweb/</loc>
   </url>
   
 </urlset>
