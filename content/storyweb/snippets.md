@@ -17,6 +17,8 @@ Connects to [Grey Seals](#grey-seals), [Seal Habitat Loss](#seal-habitat-loss), 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/davep-uk/48126289711/" title="Whos the boss?"><img src="https://live.staticflickr.com/65535/48126289711_55d54bfee0_z.jpg" width="640" height="360" alt="Whos the boss?"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 The grey seal grows up to three metres long and over 200kg in weight, and is one of Britain’s largest native predator. The UK supports about half of the global population of the species, over 100,000 seals. As populations have increased, the seals have spread looking for new places to ‘haul out’ and to breed. The largest colonies are in Scotland, but another famous local colony is found on Northumberland’s rocky, inaccessible Farne Islands which provide seals with an ideal refuge to rear their pups.
 
+Connects to [Grey Seal Skull](#grey-seal-skull), [Family Trips to the Coast](#family-trips-to-the-coast)
+
 **Image** [Who’s the Boss?](https://flic.kr/p/2gjKPeH) by by davep-uk on Flickr. 
 
 **Sound** [Seal 002](https://music.daviddelahaye.co.uk/track/seal-002-2) by David de la Haye on Bandcamp.
@@ -65,3 +67,27 @@ As sea levels rise, storms become more frequent, and sea defences deteriorate, l
 Connects to [Seal Habitat Loss](#seal-habitat-loss)
 
 The Chronicle news article: [Dog owners and walkers warned to stay away from Whitley Bay cliff edge after landslip](https://www.chroniclelive.co.uk/news/north-east-news/dog-owners-walkers-warned-stay-19603493?utm_source=linkCopy&utm_medium=social&utm_campaign=sharebar)
+
+## Family Trips to the Coast
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/terry_wha/2263106008/in/photolist-4rZ1z7-2p9fqD-78nmyz-2p98Vt-2pfY2C-qrNu7U-qcwa7h-qu2cLL-2pbtfi-c6uYeN-qEkVVx-2pbxUg-qnUeUF-2pdyaY-2pbfPB-fjjbSN-2pbh6p-qnM851-qnMJ9w-mVBXZ-mVCeb-mVBZ4-2aBvAJ9-2haYSi4-QNvqZi-29dcH4w-2jctiyY-2jborrw-2jborxD-2jc2kYP-2jbiFBg-2jcnbvL-mVC1j-mVC8z-mVCcC-mVC4N-2jbzSGo-2jbXNsE-2jcdp5C-2jci7fa-2jbXNwh-2jbWwiC-2jc2RdL-2jbVB2n-2jbn7Hf-2jcg7FN-2jbYiZd-2jcak1B-2jckREL-2jbiFJv" title="Tynemouth - Long sands forty years ago"><img src="https://live.staticflickr.com/2322/2263106008_20ca92793a_z.jpg" width="640" height="424" alt="Tynemouth - Long sands forty years ago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+"The first time I saw a wild seal was on a trip to the NE 30 years ago. Now it’s a regular event for me & the kids, looking out for them at Tees Barrage on our walks." [@HeartofglassU on Twitter](https://twitter.com/HeartOfGlassU)
+
+Connects to [Grey Seals](#grey-seals), [Whitley Bay Landslip](#whitley-bay-landslip)
+
+**Image**
+[Tynemouth Long Sands in 1967](https://flic.kr/p/4rZ1z7) by Terry Whalebone on Flickr.
+
+**Sound**
+[Families Playing At The Beach With Children](https://freesound.org/s/240331/) by kaldark on Freesound.org.
+
+## Northumberland's Cuddy Ducks
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hisgett/5371167174/in/photolist-9bCCSA-6Awxty-btz36g-DLfHUM-uB8dho-ceGD6d-ggEwcw-dUV1aM-6dmwwp-eyLMK5-cep7ab-6s3gCb-5ys56X-jKa7gH-sdb4RT-nv5Utt-KYXyAo-okjd3p-psUDSf-b4CYfR-Gt23QF-69SPjc-uv9mPA-6keR7W-6HCxiV-69X1cw-69SPxe-69SPrK-89m2xX-89phcj-b3EyeB-8t2o2F-eh4qXx-2kHDbF3-2kRgcE3-2jcp9wb-TZmyze-25u65Vn-2iVLJhG-2jcnP3C-2dV9yop-2iVLHmi-69X13o-69X15j-H1Smij-89aZ85-tGqU37-69SPpt-69X17S-9avhEX" title="Eider ducks 1c"><img src="https://live.staticflickr.com/5089/5371167174_bac30d1993_z.jpg" width="640" height="464" alt="Eider ducks 1c"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Northumberland's Eider Ducks are strongly associated with St Cuthbert and this is reflected in their local name of Cuddy Duck. Northumberland's coastline supports nationally significant numbers of both breeding and wintering Eiders and this was recognised in 2019 by the designation of the Berwick to St Mary's Marine Conservation Zone (MCZ).
+
+Connects with [St Cuthbert the Conservationist](#st-cuthbert-the-conservationist)
+
+See also: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2C_0qxYeMT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Image**
+[Eider ducks](https://flic.kr/p/9bCCSA) by Tony Hisgett on Flickr
