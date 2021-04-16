@@ -4,7 +4,7 @@ title = "Story:Web"
 theme = "introduction"
 publishDir = "docs"
 sectionPagesMenu = "main"
-googleAnalytics = "G-HHHFRBKYE8"
+googleAnalytics = "UA-192961776-1"
 
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
