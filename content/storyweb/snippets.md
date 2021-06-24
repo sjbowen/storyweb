@@ -1,8 +1,8 @@
----
+<!-- ---
 title: "Story:Snippets so far..."
 date: 2021-03-31T16:42:05+01:00
 draft: false
----
+--- -->
 
 ## Grey Seal Skull
 ![Grey Seal Skull](/assets/greySealSkull.jpg "Grey Seal Skull")

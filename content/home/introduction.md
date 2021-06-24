@@ -6,6 +6,9 @@ image: greySealSkull.jpg
 ---
 Climate change is complicated, and can often feel as if it is happening far away. However, it’s part of our everyday lives, and the effects are all around us.  
 
-**Story:Web** will be a digital platform that tells stories around climate change using museum objects, sounds, images and words. Begin your journey with a grey seal skull, see and hear how it connects with coastal landslides and St Cuthbert, then share and create your own part of the story. Discover and share images, sounds, and words that bring the stories to life. Where might the journey take us? 
+**Story:Web** is a digital platform that tells stories around climate change using museum objects, sounds, images and words. 
 
-We want to grow **Story:Web** with you, and we need your help to make more connections. 
+We are growing **Story:Web** with your help, using the new 'story snippets' you share to take stories in different directions. Where might the journey take us? 
+
+**Explore Story:Web** at the [Glasgow Science Centre](https://www.glasgowsciencecentre.org/discover/our-experiences/remimagining-museums-for-climate-action) where it is on show as part of the [Reimagining Museums for Climate Action](https://www.museumsforclimateaction.org/) exhibition for COP26 until November 2021, and [on Twitter](https://twitter.com/GrowStoryWeb).
+
