@@ -48,6 +48,14 @@ We have now got funding to turn Story:Web into a working system, including a way
 ### Is the project just about climate action?
 No. Climate action was the topic of the design competition. However, there are other topics like biodiversity loss and social justice that the collections of the Great North Museum: Hancock relate to. We will begin with climate action and then explore other topics according to the interests and ideas of those who take part.
 
+### Who can take part?
+We're looking for people who:
+* Are aged 18–24 of any background or experience;
+*	Are passionate, creative thinkers, problem solvers, team players, curious, enthusiastic and responsible;
+*	Live within reasonable travelling distance of Newcastle upon Tyne.
+
+We also warmly welcome people who do not visit museums often. This includes, but is not limited to, young people who identify themselves as: LGBTQIA+; from working class backgrounds; neurodivergent; disabled; having a migrant or refugee experience; from African Diaspora; from South, East and South East Asian diaspora; and/or ethnically diverse. 
+
 ### How can I take part?
 We will design the working Story:Web system in design workshops with a small number of participants, and online activities with a larger number of participants.
 
