@@ -50,11 +50,11 @@ No. Climate action was the topic of the design competition. However, there are o
 
 ### Who can take part?
 We're looking for people who:
-* Are aged 18–24 of any background or experience;
+* Are aged 17–25 of any background or experience;
 *	Are passionate, creative thinkers, problem solvers, team players, curious, enthusiastic and responsible;
 *	Live within reasonable travelling distance of Newcastle upon Tyne.
 
-We also warmly welcome people who do not visit museums often. This includes, but is not limited to, young people who identify themselves as: LGBTQIA+; from working class backgrounds; neurodivergent; disabled; having a migrant or refugee experience; from African Diaspora; from South, East and South East Asian diaspora; and/or ethnically diverse. 
+We hope this project will be as inclusive of everyone’s interests and backgrounds as possible. This includes, but is not limited to, people who do not visit museums and young people who identify themselves as: LGBTQIA+; from working class backgrounds; neurodivergent; disabled; having a migrant or refugee experience; from African Diaspora; from South, East and South East Asian diaspora; and/or ethnically diverse.
 
 ### How can I take part?
 We will design the working Story:Web system in design workshops with a small number of participants, and online activities with a larger number of participants.
