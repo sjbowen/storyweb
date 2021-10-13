@@ -1,12 +1,16 @@
 ---
-title: "How can I help grow Story:Web?"
+title: "Help us tell the untold story of climate change"
 draft: false
-weight: 3
+weight: 2
 image: storyWebSoFar2.jpg
 ---
+Climate change is complicated, and can often feel as if it is happening far away. However, it’s part of our everyday lives, and the effects are all around us.
 
-- Follow @GrowStoryWeb on [Twitter](https://twitter.com/GrowStoryWeb), and #GrowStoryWeb on [Facebook](https://www.facebook.com/hashtag/GrowStoryWeb), [Twitter](https://twitter.com/search?q=%23GrowStoryWeb) or [Instagram](https://www.instagram.com/tags/GrowStoryWeb/). 
-- Help us decide where to take the story next by commenting on posts. 
-- Add your own images, sounds and words using the hashtag `#GrowStoryWeb`. 
+We are growing Story:Web on social media with your help, using the new ‘story snippets’ you share to take stories in different directions. Where might the journey take us?
 
-Your contributions could be included as part of the [Reimagining Museums for Climate Action exhibition](https://www.museumsforclimateaction.org/) at Glasgow Science Centre where we are telling the story of **Story:Web** as part of [COP26, the UN Climate Change Conference ](https://ukcop26.org/).
+Help grow Story:Web by:
+* Following @GrowStoryWeb on [Instagram](https://www.instagram.com/growstoryweb/) and [Twitter](https://twitter.com/GrowStoryWeb), and #GrowStoryWeb on [Instagram](https://www.instagram.com/tags/GrowStoryWeb/) and [Twitter](https://twitter.com/search?q=%23GrowStoryWeb)  
+* Help us decide where to take the story next by commenting on posts. 
+* Add your own images, sounds and words using the hashtag `#GrowStoryWeb`. 
+
+Your contributions could be part of the interactive demo of Story:Web at COP26!

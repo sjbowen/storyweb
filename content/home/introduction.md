@@ -1,14 +1,12 @@
 ---
-title: "Help us tell the untold story of climate change"
+title: "What is Story:Web?"
 draft: false
 weight: 1
-image: greySealSkull.jpg
 ---
-Climate change is complicated, and can often feel as if it is happening far away. However, it’s part of our everyday lives, and the effects are all around us.  
+Story:Web explores how museum collections, images and sounds shared online, and people’s experiences could be connected to make sense of global issues like climate change.
 
-**Story:Web** is a digital platform that tells stories around climate change using museum objects, sounds, images and words. 
+An interactive demo of Story:Web is on show at the [Glasgow Science Centre](https://www.glasgowsciencecentre.org/discover/our-experiences/remimagining-museums-for-climate-action) up to and during [COP26](https://ukcop26.org/), the UN Climate Change Conference, as part of the [Reimagining Museums for Climate Action](https://www.museumsforclimateaction.org/) exhibition.
 
-We are growing **Story:Web** with your help, using the new 'story snippets' you share to take stories in different directions. Where might the journey take us? 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/562931131" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-**Explore Story:Web** at the [Glasgow Science Centre](https://www.glasgowsciencecentre.org/discover/our-experiences/remimagining-museums-for-climate-action) where it is on show as part of the [Reimagining Museums for Climate Action](https://www.museumsforclimateaction.org/) exhibition for COP26 until November 2021, and [on Twitter](https://twitter.com/GrowStoryWeb).
-
+During 2021 and 2022 we are developing Story:Web into a real digital system for use on social media and in museums, for people to discuss global issues like climate action. We need people aged 17-25 to help with this, [find out more here](/takepart).

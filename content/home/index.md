@@ -3,4 +3,4 @@ title: "Story:Web"
 draft: false
 weight: 0
 ---
-Tell your story of climate change...
+Making sense of global issues through museum collections, images, sounds, and personal experiences
