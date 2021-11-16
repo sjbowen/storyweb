@@ -1,5 +1,5 @@
 ---
-title: "About Story:Web"
+title: "The Story:Web Idea"
 draft: false
 weight: 3
 ---
@@ -11,7 +11,7 @@ weight: 3
 
 This **Story:Web** of big data can then be mined, shared and contributed to both by humans and non-humans (artificial intelligences). **Story:Webs** and **Story:Snippets** support new ways of storytelling, with museums and the public as co-authors and co-curators, which encourage discovery, reflection, and action. 
 
-**Story:Web** will be exhibited at the [Glasgow Science Centre](https://www.glasgowsciencecentre.org/) from June to October 2021 on the lead up to [COP26 - the UN Climate Change Conference ](https://ukcop26.org/) in Glasgow.
+**Story:Web** was exhibited at the [Glasgow Science Centre](https://www.glasgowsciencecentre.org/) from June to November 2021 on the lead up to and during [COP26 - the UN Climate Change Conference ](https://ukcop26.org/) in Glasgow.
 
 ### More on the Story:Web Concept
 Museum collections are more than objects, they are objects with stories that should evoke emotional responses and provoke reflection. Collections can sometimes lose their power to amaze, by being fixed in time and perspective.  

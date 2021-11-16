@@ -1,6 +1,7 @@
 ---
 title: "Take Part"
 draft: false
+weight: 1
 ---
 <style>
 .button {
@@ -25,13 +26,16 @@ draft: false
 
 <div align="left">
 
-### Help us design ways of using museum objects on social media to discuss global issues like climate action. 
+## Help design cutting-edge technology apps 
 
-We came up with Story:Web - an idea for how museum collections, images and sounds shared online, and people’s experiences could be connected to make sense of climate action and other issues. We built a demo of Story:Web showing how it might work with some example museum objects, images and sounds and exhibited it at COP26, the UN Climate Conference.
+* Are you 17-25?
+* Interested in discussing global issues on social media using objects, images and sounds to make your point?
+* Interested in exploring how technology like artificial intelligence and chatbots can help?
 
-We now need people aged 17-25 to take part in workshops and online activities to work out they might use museum objects on social media, and help us design new apps for social media and museums using technology like chatbots and artificial intelligence. **Workshop participants will get shopping vouchers**. 
+Work with researchers at Newcastle University and the Great North Museum: Hancock to design new social media apps and an interactive museum exhibit for understanding and discussing global issues like climate action.
 
-Places are limited so, **tap or click the button below** or email [simon.bowen@newcastle.ac.uk](mailto:simon.bowen@newcastle.ac.uk?subject=Taking_part_in_StoryWeb) to take part.  
+
+**Tap/click the button below** or email [simon.bowen@newcastle.ac.uk](mailto:simon.bowen@newcastle.ac.uk?subject=Taking_part_in_StoryWeb) if you’d like to take part. We’ll be thanking design workshop participants with online shopping vouchers.
 
 <button class="button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h_5l3FMD60BOsj9J5EgE8OlUQTlZUFNJTFBORzFOUVJKSzlSTkxWSVg3WC4u';">
       Take Part</button>
@@ -39,12 +43,12 @@ Places are limited so, **tap or click the button below** or email [simon.bowen@n
 ![Story:Web on Instagram](/assets/storywebinstagram.jpg "Story:Web on Instagram")
 
 ## More Information
-Story:Web began as a winning entry for the ‘Reimagining Museums for Climate Action’ design competition. The idea was developed by a team from the Great North Museum: Hancock in Newcastle, Newcastle and Manchester Universities, and sound artist David de la Haye. 
+We came up with Story:Web - an idea for how museum collections, images and sounds shared online, and people’s experiences could be connected to make sense of climate action and other issues. We built a demo of Story:Web showing how it might work with some example objects, images and sounds, and exhibited it at COP26, the UN Climate Conference. The idea was developed by a team from the Great North Museum: Hancock in Newcastle, Newcastle and Manchester Universities, and sound artist David de la Haye.
 
-We now have funding to build a working system, inspired by Story:Web, including a way of using museum objects on social media and an interactive exhibit in the Great North Museum: Hancock.
+With your help, we are now going to build a working system inspired by Story:Web including a way of using objects, images and sounds on social media and in an interactive exhibit in the Great North Museum: Hancock, powered by technology like artificial intelligence and chatbots. 
 
 ### Is the project just about climate action?
-No. Climate action was the topic of the design competition. However, there are other topics like biodiversity loss and social justice that the collections of the Great North Museum: Hancock relate to. We will begin with climate action and then explore other topics according to the interests and ideas of those who take part.
+No. Climate action was the topic of the ‘Reimagining Museums for Climate Action’ exhibition that Story:Web was part of. There are other topics like biodiversity loss and social justice that the collections of the Great North Museum: Hancock is relevant to. We will begin with climate action and then explore other topics according to the interests and ideas of everyone taking part.
 
 ### Who can take part?
 We're looking for people who:
@@ -55,27 +59,31 @@ We're looking for people who:
 We hope this project will be as inclusive of everyone’s interests and backgrounds as possible. This includes, but is not limited to, people who do not visit museums and young people who identify themselves as: LGBTQIA+; from working class backgrounds; neurodivergent; disabled; having a migrant or refugee experience; from African Diaspora; from South, East and South East Asian diaspora; and/or ethnically diverse.
 
 ### How can I take part?
-We will design the social media app and museum interactive exhibit in design workshops with a small number of participants, and online activities with a larger number of participants.
+We will design the social media app and interactive museum exhibit in face-to-face workshops with a smaller group of participants and online activities with a larger group of participants. You can take part in either or both.
 
-### What will happen in the workshops?
-Workshops will include sharing how you currently use social media and discuss climate action and other issues, exploring how objects in the Great North Museum: Hancock’s collection relate to these issues, and experimenting with technologies like artificial intelligence and social media chatbots to make discovering and including collection objects in social media conversations easier.
+### What will happen in the design activities?
+Design activities will include sharing how you currently use social media and discuss climate action and other issues, exploring how objects in the Great North Museum: Hancock’s collection relate to these issues, and experimenting with technologies like artificial intelligence and social media chatbots. 
+
+You will also contribute ideas for a social media app and interactive museum exhibit, and try out and feedback on prototypes of the app and exhibit as they are developed.
+
+We will do these activities in greater depth in workshops than in the online activities.
 
 ### When and where will the workshops be?
-There will be six workshops during the project, which will take place monthly.
+Workshops will be late 2021 and early 2022, approximately every month, and last for around two hours.
 
-Workshops will take place at the Great North Museum: Hancock or at Newcastle University, in central Newcastle. If COVID restrictions change, workshops will move online using Zoom.
+Workshops are likely to take place at the Great North Museum: Hancock or at Newcastle University, in central Newcastle. If COVID restrictions change, workshops will move online using Zoom.
 
-Workshops will last between 2 and 3 hours and are likely to take place late afternoon or early evenings to fit with your work or studies. Occasional workshop activities may need to take place at other times, but we will check with you to find a time that works best.
-
-Workshop places are limited and we need people to take part in all six workshops if possible. Participants will be offered £25 in shopping vouchers for each workshop they attend (£150 in total) to thank them for their time.
-
-### What will happen in the online activities?
-We will share the issues and ideas discussed in the design workshops online so that other people can discuss them and add their own contributions. There will also be some online activities exploring how museum objects, images and sounds could be used on social media, including using prototypes of the new app and interactive exhibit as they develop.
+We will agree the exact timing and duration of workshops with participants, once we know who will be taking part.
 
 ### When and where will the online activities be? 
-Online activities will take place in parallel and in between design workshops, and will be held on the social media platform(s) used most by those who register their interest.
+Online activities will take place in between design workshops and will be held on the social media platforms used most by those taking part.
 
-We are unable to offer shopping vouchers to online participants if large numbers of people take part in them.
+### How will I benefit from taking part?
+You will help shape a working system that helps people understand global issues and work out what to do about them. For example, this could mean more people understand and do something about climate change or biodiversity loss. ‘Co-designing’ this system with us could also build your confidence and experience.
+
+Through taking part you will learn more about artificial intelligence and social media chatbots, and their applications. You can also understand more about global issues like climate action and how museum collections connect to them.
+
+We will thank workshop participants with online shopping vouchers (£25 per person per workshop). We are unlikely to thank online activity participants with online shopping vouchers if large numbers of people take part.
 
 <button class="button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h_5l3FMD60BOsj9J5EgE8OlUQTlZUFNJTFBORzFOUVJKSzlSTkxWSVg3WC4u';">
       Take Part

@@ -52,10 +52,3 @@ unsafe= true
     title = "home"
     url = "/"
     weight = -110
-
- [[menu.main]]
-    identifier = "storyweb"
-    name = "The Story:Web so far"
-    title = "The Story:Web so far"
-    url = "/storyweb/"
-    weight = -100
