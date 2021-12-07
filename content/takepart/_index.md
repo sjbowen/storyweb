@@ -28,14 +28,14 @@ weight: 1
 
 ## Help design cutting-edge technology apps 
 
-* Are you 17-25?
+* Are you 16-25?
 * Interested in discussing global issues on social media using objects, images and sounds to make your point?
 * Interested in exploring how technology like artificial intelligence and chatbots can help?
 
 Work with researchers at Newcastle University and the Great North Museum: Hancock to design new social media apps and an interactive museum exhibit for understanding and discussing global issues like climate action.
 
 
-**Tap/click the button below** or email [simon.bowen@newcastle.ac.uk](mailto:simon.bowen@newcastle.ac.uk?subject=Taking_part_in_StoryWeb) if you’d like to take part. We’ll be thanking design workshop participants with online shopping vouchers.
+**Tap/click the button below** or email [simon.bowen@newcastle.ac.uk](mailto:simon.bowen@newcastle.ac.uk?subject=Taking_part_in_StoryWeb) if you’d like to take part.
 
 <button class="button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h_5l3FMD60BOsj9J5EgE8OlUQTlZUFNJTFBORzFOUVJKSzlSTkxWSVg3WC4u';">
       Take Part</button>
@@ -52,14 +52,14 @@ No. Climate action was the topic of the ‘Reimagining Museums for Climate Actio
 
 ### Who can take part?
 We're looking for people who:
-* Are aged 17–25 of any background or experience;
+* Are aged 16–25 of any background or experience;
 *	Are passionate, creative thinkers, problem solvers, team players, curious, enthusiastic and responsible;
 *	And, for workshops, live within reasonable travelling distance of Newcastle upon Tyne.
 
 We hope this project will be as inclusive of everyone’s interests and backgrounds as possible. This includes, but is not limited to, people who do not visit museums and young people who identify themselves as: LGBTQIA+; from working class backgrounds; neurodivergent; disabled; having a migrant or refugee experience; from African Diaspora; from South, East and South East Asian diaspora; and/or ethnically diverse.
 
 ### How can I take part?
-We will design the social media app and interactive museum exhibit in face-to-face workshops with a smaller group of participants and online activities with a larger group of participants. You can take part in either or both.
+We will design the social media app and interactive museum exhibit in face-to-face and online workshops. We will also share ideas from workshops online for other people to comment on and add to. You can take part in either or both.
 
 ### What will happen in the design activities?
 Design activities will include sharing how you currently use social media and discuss climate action and other issues, exploring how objects in the Great North Museum: Hancock’s collection relate to these issues, and experimenting with technologies like artificial intelligence and social media chatbots. 
@@ -69,14 +69,14 @@ You will also contribute ideas for a social media app and interactive museum exh
 We will do these activities in greater depth in workshops than in the online activities.
 
 ### When and where will the workshops be?
-Workshops will be late 2021 and early 2022, approximately every month, and last for around two hours.
+Workshops will be in early 2022 and last for around two hours.
 
-Workshops are likely to take place at the Great North Museum: Hancock or at Newcastle University, in central Newcastle. If COVID restrictions change, workshops will move online using Zoom.
+Workshops are will take place at the Great North Museum: Hancock or at Newcastle University, in central Newcastle and online using Zoom.
 
 We will agree the exact timing and duration of workshops with participants, once we know who will be taking part.
 
-### When and where will the online activities be? 
-Online activities will take place in between design workshops and will be held on the social media platforms used most by those taking part.
+### Where will ideas be shared online? 
+Ideas will be shared and discussed on the social media platforms used most by those taking part.
 
 ### How will I benefit from taking part?
 You will help shape a working system that helps people understand global issues and work out what to do about them. For example, this could mean more people understand and do something about climate change or biodiversity loss. ‘Co-designing’ this system with us could also build your confidence and experience.
