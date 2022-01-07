@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Story:Web</title>
+    <link>http://storyweb.info/blog/</link>
+    <description>Recent content in Blog on Story:Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 07 Jan 2022 16:40:47 +0000</lastBuildDate><atom:link href="http://storyweb.info/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://storyweb.info/blog/welcome/</link>
+      <pubDate>Fri, 07 Jan 2022 16:41:50 +0000</pubDate>
+      
+      <guid>http://storyweb.info/blog/welcome/</guid>
+      <description>If you are taking part in the Story:Web co-design workshops, thank you! (If not, you can find out how to take part here ). We&amp;rsquo;ll be sharing our progress here on the &amp;lsquo;blog. This post explains what we’ll be doing in the first workshop and gives you some simple tasks to do before it.
+Before We Begin Once you know more about the project, you need to formally agree to take part.</description>
+    </item>
+    
+  </channel>
+</rss>
