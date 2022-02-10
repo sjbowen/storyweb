@@ -35,10 +35,7 @@ weight: 1
 Work with researchers at Newcastle University and the Great North Museum: Hancock to design new social media apps and an interactive museum exhibit for understanding and discussing global issues like climate action.
 
 
-**Tap/click the button below** or email [simon.bowen@newcastle.ac.uk](mailto:simon.bowen@newcastle.ac.uk?subject=Taking_part_in_StoryWeb) if you’d like to take part.
-
-<button class="button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h_5l3FMD60BOsj9J5EgE8OlUQTlZUFNJTFBORzFOUVJKSzlSTkxWSVg3WC4u';">
-      Take Part</button>
+**Email [simon.bowen@newcastle.ac.uk](mailto:simon.bowen@newcastle.ac.uk?subject=Taking_part_in_StoryWeb) if you’d like to take part.**
 
 ![Story:Web on Instagram](/assets/storywebinstagram.jpg "Story:Web on Instagram")
 
@@ -82,11 +79,7 @@ Ideas will be shared and discussed on the social media platforms used most by th
 You will help shape a working system that helps people understand global issues and work out what to do about them. For example, this could mean more people understand and do something about climate change or biodiversity loss. ‘Co-designing’ this system with us could also build your confidence and experience.
 
 Through taking part you will learn more about artificial intelligence and social media chatbots, and their applications. You can also understand more about global issues like climate action and how museum collections connect to them.
-
-We will thank workshop participants with online shopping vouchers (£25 per person per workshop). We are unlikely to thank online activity participants with online shopping vouchers if large numbers of people take part.
-
-<button class="button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h_5l3FMD60BOsj9J5EgE8OlUQTlZUFNJTFBORzFOUVJKSzlSTkxWSVg3WC4u';">
-      Take Part
-    </button>
+<!-- 
+We will thank workshop participants with online shopping vouchers (£25 per person per workshop). We are unlikely to thank online activity participants with online shopping vouchers if large numbers of people take part. -->
 
 </div>

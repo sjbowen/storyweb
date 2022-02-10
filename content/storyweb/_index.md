@@ -23,9 +23,9 @@ weight: 3
 }
 </style>
 
-The interactive demo of Story:Web that is on show at the Glasgow Science Centre, is [now online here](https://storyweb.vercel.app/). Listen through headphones to hear the 3D sound.
+The interactive demo of Story:Web that is on show at the Glasgow Science Centre, is [now online here](https://explore.storyweb.info/). Listen through headphones to hear the 3D sound.
 
-<button class="button" onclick="window.location.href='https://storyweb.vercel.app/';">
+<button class="button" onclick="window.location.href='https://explore.storyweb.info/';">
       Explore Story:Web Demo</button>
 
 
