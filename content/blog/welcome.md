@@ -8,7 +8,7 @@ If you are taking part in the Story:Web co-design workshops, thank you! (If not,
 
 ## Before We Begin
 Once you know more about the project, you need to formally agree to take part. 
-1.	Please read through the [Information for Participants document](/assets/informationForParticipantsStoryWeb.pdf), which tells you about our research. You can email any questions about it to me (simon.bowen@newcastle.ac.uk) and ask questions about it at the start of the first workshop.
+1.	Please read through the [Information for Participants document](/assets/participantsInformationStoryWeb.pdf), which tells you about our research. You can email any questions about it to me (simon.bowen@newcastle.ac.uk) and ask questions about it at the start of the first workshop.
 2.	If you’ve had all your questions answered and are happy to continue we’ll ask you to complete a [Consent Form](/assets/consentFormStoryWeb.pdf) at the first workshop. You can do this sooner if you don’t have any questions.
 
 ## About Workshop 1

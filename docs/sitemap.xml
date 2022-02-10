@@ -1,48 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://storyweb.info/takepart/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://storyweb.info/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://storyweb.info/storyweb/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://storyweb.info/blog/</loc>
     <lastmod>2022-01-07T16:40:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://storyweb.info/</loc>
     <lastmod>2022-01-07T16:41:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://storyweb.info/blog/welcome/</loc>
     <lastmod>2022-01-07T16:41:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://storyweb.info/storyweb/snippets/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://storyweb.info/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://storyweb.info/home/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://storyweb.info/tags/</loc>
   </url>
-  
 </urlset>
