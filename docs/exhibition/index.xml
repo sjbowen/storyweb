@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exhibition on Story:Web</title>
+    <link>http://storyweb.info/exhibition/</link>
+    <description>Recent content in Exhibition on Story:Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 28 Jun 2022 14:34:48 +0100</lastBuildDate><atom:link href="http://storyweb.info/exhibition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Objects</title>
+      <link>http://storyweb.info/exhibition/objects/</link>
+      <pubDate>Tue, 28 Jun 2022 14:35:22 +0100</pubDate>
+      
+      <guid>http://storyweb.info/exhibition/objects/</guid>
+      <description> Sensemaker Objects In the &amp;lsquo;What if?&amp;hellip;&amp;rsquo; exhibition at the Great North Museum: Hancock, we asked you to describe three objects in three words. This is how the Museum&amp;rsquo;s keepers describe them. How well do the keeper&amp;rsquo;s descriptions match your words?
+Object 1: The Whitburn Harpoon Object 2: Fish Fossil Object 3: Pipefish </description>
+    </item>
+    
+  </channel>
+</rss>
