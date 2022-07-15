@@ -1,6 +1,6 @@
 ---
 title: "Take Part"
-draft: false
+draft: true
 weight: 1
 ---
 <style>
