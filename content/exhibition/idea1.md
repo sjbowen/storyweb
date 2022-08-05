@@ -19,6 +19,9 @@ What if...
 
 [Tell us what you think about this and the other ideas](https://forms.gle/5NzYU91baqTEgtCM9), and we'll use your feedback to work out what to build for the museum for real!
 
+## Have a Go!
+[Visit this web form](https://forms.gle/zLg1JLDUVMrjworJ8), pick an object, and start a story!
+
 See also:
 * [Idea #2: SenseMaker]({{< ref "/exhibition/idea2" >}} "Idea #2: SenseMaker")
 * [Idea #3: EnviroAds]({{< ref "/exhibition/idea3" >}} "Idea #3: EnviroAds")
